@@ -1,13 +1,18 @@
 ion-content {
-  background: linear-gradient(to bottom,);
-  background: #F0C27B;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #4B1248, #F0C27B);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #4B1248, #F0C27B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ 
+
 }
 h2 {
-  color: #606c88
+  color: #606c88;
+  text-align: right;
 }
 p {
   font-family: 'Times New Roman', Times, serif;
-  text-align: justfiy;
+  text-align: justify;
+}
+img {
+
+  max-width: 70%;
+  height: auto;
+  align: right;
 }
